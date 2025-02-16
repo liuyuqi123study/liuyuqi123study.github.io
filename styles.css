@@ -1,0 +1,15 @@
+/* styles.css */
+.about-content {
+    display: flex;
+    align-items: center;
+}
+
+.about-image {
+    width: 100%;
+    max-width: 300px;
+    margin-right: 20px;
+}
+
+.about-text {
+    flex: 1;
+}
